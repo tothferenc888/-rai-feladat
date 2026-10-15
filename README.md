@@ -1,6 +1,6 @@
 # Órai Feladat
 
-Tagok:
-Tóth Ferenc Péter
-Hliva Tamás Mátyás
+Tagok: <br>
+Tóth Ferenc Péter <br>
+Hliva Tamás Mátyás <br>
 
